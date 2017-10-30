@@ -3,7 +3,7 @@ This is my personal project repo for the final project of the Udacity Self-Drivi
 ### Team Members
 
 * Brahm Windeler	udacity@b2brahm.com
-*Taylor Williams	tvw0006@gmail.com
-*Andrea Palazzi		ndrplz@gmail.com
-*Joe Kocsis			joe.kocsis3@gmail.com
-*Alexandre Barilov	ab2005@gmail.com
+* Taylor Williams	tvw0006@gmail.com
+* Andrea Palazzi		ndrplz@gmail.com
+* Joe Kocsis			joe.kocsis3@gmail.com
+* Alexandre Barilov	ab2005@gmail.com
